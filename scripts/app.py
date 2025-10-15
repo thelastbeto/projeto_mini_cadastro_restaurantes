@@ -3,8 +3,9 @@ import os
 #Tratando com variável global
 restaurantes = [
     {'nome': 'x', 'categoria':'Pizzaria', 'ativo':False},
-    {'nome': 'y', 'categoria': 'Sorveteria', 'ativo':False,
-     'nome': 'z', 'categoria': 'Hamburgueria', 'ativo':False}
+    {'nome': 'y', 'categoria': 'Sorveteria', 'ativo':False},
+     {'nome': 'z', 'categoria': 'Hamburgueria', 'ativo':False},
+     {'nome': 'z', 'categoria': 'Hamburgueria', 'ativo':False}
                 ]
 
 def exibir_msg():
